@@ -1,0 +1,167 @@
+@import "tailwindcss";
+
+/*
+ * 音眠舱 · 暖色莫兰迪疗愈风设计系统
+ * 暖、软、静、私密、有安全感
+ */
+:root {
+  /* 背景层级：暖深灰褐 */
+  --bg-deep: #2e2a27;
+  --bg-mid: #3a342f;
+  --bg-soft: #4a423c;
+
+  /* 卡片：暖灰褐 */
+  --card: #3a342f;
+  --card-strong: #433d37;
+
+  /* 主色：陶土粉、奶咖 */
+  --clay: #c9ada7;
+  --milk-coffee: #b8a38f;
+
+  /* 辅助色：鼠尾草绿、燕麦、暖沙 */
+  --sage: #a3b18a;
+  --oat: #e8e3dd;
+  --warm-sand: #d6c7b0;
+
+  /* 文字层级 */
+  --text-primary: #f5f0e8;
+  --text-secondary: #cbbfb2;
+  --text-muted: #9c8f82;
+
+  /* 通用 */
+  --border: rgba(201, 173, 167, 0.16);
+  --ring: rgba(201, 173, 167, 0.35);
+
+  /* 光晕点缀色 */
+  --glow-clay: rgba(201, 173, 167, 0.28);
+  --glow-sage: rgba(163, 177, 138, 0.22);
+  --glow-milk: rgba(184, 163, 143, 0.22);
+
+  /* 圆角 */
+  --radius-sm: 0.625rem;
+  --radius-md: 0.875rem;
+  --radius-lg: 1.25rem;
+  --radius-xl: 1.75rem;
+}
+
+/* Tailwind v4 主题映射 */
+@theme inline {
+  --color-bg-deep: var(--bg-deep);
+  --color-bg-mid: var(--bg-mid);
+  --color-bg-soft: var(--bg-soft);
+  --color-card: var(--card);
+  --color-card-strong: var(--card-strong);
+
+  --color-clay: var(--clay);
+  --color-milk: var(--milk-coffee);
+  --color-sage: var(--sage);
+  --color-oat: var(--oat);
+  --color-sand: var(--warm-sand);
+
+  --color-text-primary: var(--text-primary);
+  --color-text-secondary: var(--text-secondary);
+  --color-text-muted: var(--text-muted);
+
+  --color-border: var(--border);
+  --color-ring: var(--ring);
+
+  --radius-sm: var(--radius-sm);
+  --radius-md: var(--radius-md);
+  --radius-lg: var(--radius-lg);
+  --radius-xl: var(--radius-xl);
+
+  --font-sans: var(--font-inter), var(--font-sans-cn), system-ui, sans-serif;
+  --font-display: var(--font-quicksand), var(--font-sans-cn), system-ui, sans-serif;
+}
+
+/* 标题使用 Quicksand + 中文 */
+.font-display {
+  font-family: var(--font-display);
+}
+
+* {
+  border-color: var(--border);
+}
+
+html,
+body {
+  background: var(--bg-deep);
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  min-height: 100dvh;
+  /* 移动端安全区 */
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+/* 选中文本：陶土粉柔光 */
+::selection {
+  background: rgba(201, 173, 167, 0.3);
+  color: var(--oat);
+}
+
+/* 滚动条：弱化、暖色 */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--text-muted) transparent;
+}
+*::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+*::-webkit-scrollbar-thumb {
+  background: rgba(156, 143, 130, 0.4);
+  border-radius: 999px;
+}
+*::-webkit-scrollbar-thumb:hover {
+  background: rgba(156, 143, 130, 0.6);
+}
+
+/* 焦点可见：暖沙轮廓 */
+:focus-visible {
+  outline: 2px solid var(--warm-sand);
+  outline-offset: 2px;
+  border-radius: var(--radius-sm);
+}
+
+/* 减少动效：全局关闭动画 */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* 工具类：毛玻璃卡片 */
+.glass-card {
+  background: rgba(58, 52, 47, 0.72);
+  backdrop-filter: blur(14px) saturate(120%);
+  -webkit-backdrop-filter: blur(14px) saturate(120%);
+  border: 1px solid var(--border);
+}
+
+/* 工具类：暖色文字渐变 */
+.text-warm-gradient {
+  background: linear-gradient(120deg, var(--clay), var(--warm-sand) 55%, var(--sage));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* 星点：用于背景点缀（伪元素配合） */
+.warm-dot {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  border-radius: 999px;
+  background: var(--oat);
+  opacity: 0.35;
+}

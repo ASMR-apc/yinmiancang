@@ -1,0 +1,35 @@
+1:"$Sreact.fragment"
+2:"/yinmiancang/_next/static/chunks/42onvq6nokjl2.js"
+3:"/yinmiancang/_next/static/chunks/0auqdpm9fdxfa.js"
+4:"/yinmiancang/_next/static/chunks/1ul4t2wemd1p1.js"
+5:"/yinmiancang/_next/static/chunks/3sqaw44op7bde.js"
+6:"/yinmiancang/_next/static/chunks/0_6y622iocuyr.js"
+7:I[28429,["$2","$3","$4","$5","$6"],"BackgroundLayer"]
+8:I[39756,["$2","$3","$4","$5","$6"],"default"]
+9:I[37457,["$2","$3","$4","$5","$6"],"default"]
+a:I[79536,["$2","$3","$4","$5","$6"],"PlayerBar"]
+b:I[44065,["$2","$3","$4","$5","$6"],"BottomNav"]
+c:I[26481,["$2","$3","$4","$5","$6"],"PWAProvider"]
+11:"/yinmiancang/_next/static/chunks/1wlzn1vmxsg_o.js"
+12:"VideoDetailClient"
+13:I[95218,["$2","$3","$4","$5","$6","$11"],"$12"]
+14:I[97367,["$2","$3","$4","$5","$6"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[97367,["$2","$3","$4","$5","$6"],"$17"]
+1a:"MetadataBoundary"
+1b:I[97367,["$2","$3","$4","$5","$6"],"$1a"]
+1d:I[68027,["$2","$3","$4","$5","$6"],"default",1]
+:HL["/yinmiancang/_next/static/chunks/1zxvxnhk16pdz.css","style"]
+:HL["/yinmiancang/_next/static/media/4a7551bcc3548e67-s.p.3jc5sq-923m_s.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/yinmiancang/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+e:X
+10:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$L13",null,{}],[["$","script","script-0",{"src":"/yinmiancang/_next/static/chunks/1wlzn1vmxsg_o.js","async":true,"nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+f:[["children",{"s":{"n":"id","t":"d","k":"v-fire","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$e"},"c":"$Q10"}]]
+d:[["children",{"s":"videos","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$e"},"c":"$Qf"}]]
+0:{"P":null,"c":["","videos","v-fire"],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yinmiancang/_next/static/chunks/1zxvxnhk16pdz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/yinmiancang/_next/static/chunks/42onvq6nokjl2.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/yinmiancang/_next/static/chunks/0auqdpm9fdxfa.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/yinmiancang/_next/static/chunks/1ul4t2wemd1p1.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/yinmiancang/_next/static/chunks/3sqaw44op7bde.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/yinmiancang/_next/static/chunks/0_6y622iocuyr.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"MOT0tq_variable EYap1q_variable h-full","style":{"--font-sans-cn":"\"LXGW WenKai\", \"霞鹜文楷\", \"Noto Sans SC\", \"Source Han Sans SC\", \"PingFang SC\", \"Microsoft YaHei\", sans-serif"},"children":["$","body",null,{"className":"min-h-full antialiased","children":["$","div",null,{"className":"relative min-h-dvh","children":[["$","$L7",null,{}],["$","main",null,{"className":"mx-auto w-full max-w-3xl px-4 pb-40 pt-6 sm:px-6","children":["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}]]}]}]}]]}],"p":false,"v":null},"c":"$Qd"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[["$","link","0",{"rel":"stylesheet","href":"/yinmiancang/_next/static/chunks/1zxvxnhk16pdz.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"l1mBKjezzLj3q3JK30aHK"}
+e:C
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#2e2a27"}]]
+1e:I[27201,["$2","$3","$4","$5","$6"],"IconMark"]
+16:null
+1c:[["$","title","0",{"children":"音眠舱 · 深夜 ASMR 助眠"}],["$","meta","1",{"name":"description","content":"音眠舱是一个可听、可调、可互动的深夜 ASMR 助眠网站。多轨混音、定时渐弱、呼吸引导、匿名晚安墙，陪你安然入睡。"}],["$","meta","2",{"name":"application-name","content":"音眠舱"}],["$","meta","3",{"name":"author","content":"音眠舱"}],["$","link","4",{"rel":"manifest","href":"/yinmiancang/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","5",{"name":"keywords","content":"ASMR,助眠,白噪音,冥想,呼吸引导,晚安,失眠,音眠舱"}],["$","meta","6",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"音眠舱"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}],["$","link","9",{"rel":"icon","href":"/yinmiancang/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L1e","10",{}]]

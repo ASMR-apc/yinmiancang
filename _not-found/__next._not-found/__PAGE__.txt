@@ -1,0 +1,35 @@
+1:"$Sreact.fragment"
+2:"/yinmiancang/_next/static/chunks/42onvq6nokjl2.js"
+3:"/yinmiancang/_next/static/chunks/0auqdpm9fdxfa.js"
+4:"/yinmiancang/_next/static/chunks/1ul4t2wemd1p1.js"
+5:"/yinmiancang/_next/static/chunks/3sqaw44op7bde.js"
+6:"/yinmiancang/_next/static/chunks/0_6y622iocuyr.js"
+7:I[28429,["$2","$3","$4","$5","$6"],"BackgroundLayer"]
+8:I[39756,["$2","$3","$4","$5","$6"],"default"]
+9:I[37457,["$2","$3","$4","$5","$6"],"default"]
+a:I[79536,["$2","$3","$4","$5","$6"],"PlayerBar"]
+b:I[44065,["$2","$3","$4","$5","$6"],"BottomNav"]
+c:I[26481,["$2","$3","$4","$5","$6"],"PWAProvider"]
+13:I[97367,["$2","$3","$4","$5","$6"],"OutletBoundary"]
+14:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[97367,["$2","$3","$4","$5","$6"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$2","$3","$4","$5","$6"],"$19"]
+1b:I[27201,["$2","$3","$4","$5","$6"],"IconMark"]
+:HL["/yinmiancang/_next/static/chunks/1zxvxnhk16pdz.css","style"]
+e:X
+11:X
+11:C
+12:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:children:props:children:props:children:1:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:t:t:d:r:props:children:1:props:children:props:children:props:children:1:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:t:t:d:r:props:children:1:props:children:props:children:props:children:1:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:t:t:d:r:props:children:1:props:children:props:children:props:children:1:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],null,["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":"$@16","v":null,"s":"$e"}}]]
+f:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@10","v":"$11","s":"$e"},"c":"$Q12"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yinmiancang/_next/static/chunks/1zxvxnhk16pdz.css","precedence":"next"}],["$","script","script-0",{"src":"/yinmiancang/_next/static/chunks/42onvq6nokjl2.js","async":true}],["$","script","script-1",{"src":"/yinmiancang/_next/static/chunks/0auqdpm9fdxfa.js","async":true}],["$","script","script-2",{"src":"/yinmiancang/_next/static/chunks/1ul4t2wemd1p1.js","async":true}],["$","script","script-3",{"src":"/yinmiancang/_next/static/chunks/3sqaw44op7bde.js","async":true}],["$","script","script-4",{"src":"/yinmiancang/_next/static/chunks/0_6y622iocuyr.js","async":true}]],["$","html",null,{"lang":"zh-CN","className":"MOT0tq_variable EYap1q_variable h-full","style":{"--font-sans-cn":"\"LXGW WenKai\", \"霞鹜文楷\", \"Noto Sans SC\", \"Source Han Sans SC\", \"PingFang SC\", \"Microsoft YaHei\", sans-serif"},"children":["$","body",null,{"className":"min-h-full antialiased","children":["$","div",null,{"className":"relative min-h-dvh","children":[["$","$L7",null,{}],["$","main",null,{"className":"mx-auto w-full max-w-3xl px-4 pb-40 pt-6 sm:px-6","children":["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}]]}]}]}]]}],"p":"$@d","v":null,"s":"$e"},"c":"$Qf"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#2e2a27"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"音眠舱 · 深夜 ASMR 助眠"}],["$","meta","1",{"name":"description","content":"音眠舱是一个可听、可调、可互动的深夜 ASMR 助眠网站。多轨混音、定时渐弱、呼吸引导、匿名晚安墙，陪你安然入睡。"}],["$","meta","2",{"name":"application-name","content":"音眠舱"}],["$","meta","3",{"name":"author","content":"音眠舱"}],["$","link","4",{"rel":"manifest","href":"/yinmiancang/manifest.webmanifest"}],["$","meta","5",{"name":"keywords","content":"ASMR,助眠,白噪音,冥想,呼吸引导,晚安,失眠,音眠舱"}],["$","meta","6",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"音眠舱"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}],["$","link","9",{"rel":"icon","href":"/yinmiancang/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L1b","10",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1c","v":null,"s":"$e"}},"a":"$@1d","u":"$@1e","b":"l1mBKjezzLj3q3JK30aHK"}
+15:null
+e:300
+1e:true
+e:C
+1d:0
+10:"$undefined"
+d:"$undefined"
+1c:"$undefined"
+16:"$undefined"
